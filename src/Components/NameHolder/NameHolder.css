@@ -1,0 +1,44 @@
+.banner-holder{
+	width: 100%;
+	height: 73.6%;
+	background: url('/assets/typing.png');
+	background-repeat: round;
+}
+
+.banner-tint{
+	width: 100%;
+	position: absolute;
+	height: 72%;
+	background: #000000aa;
+	text-align: center;
+}
+
+.banner-name{
+	color: white;
+	font-size: 100px;
+	margin-top: 6%
+}
+
+.banner-designation{
+	color: white;
+	font-size: 40px;
+}
+
+.banner-dp{
+	height: 250px;
+	width: 250px;
+	background: url('/assets/dp.jpeg');
+	background-repeat: round;
+	border-radius: 150px;
+	border : 8px solid white;
+	display: block;
+	margin: auto;
+	box-shadow: 2px 3px 1px 1px #2076d4;
+}
+
+.banner-dp-holder{
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	top: 53%
+}

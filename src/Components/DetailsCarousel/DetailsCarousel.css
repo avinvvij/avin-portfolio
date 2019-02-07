@@ -1,0 +1,47 @@
+.carousel-indicators>li{
+    background: #2478d5;
+    border-radius: 150px;
+    width: 15px;
+    height: 14px;
+    border: 1px solid #ffffff;
+}
+
+.carousel-indicators>.active{
+    background: #2478d5;
+    border-radius: 150px;
+    width: 15px;
+    height: 14px;
+    border: 2px solid #fb8989;
+}
+
+.details-item-holder{
+	margin: 0px 100px 50px 100px;
+}
+
+.details-duration{
+	font-family: 'Concert One';
+    font-weight: 300;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 5px
+}
+
+.details-item-title-text{
+	color: black;
+    font-size: 35px;
+    border-bottom: 2px #fb8989 solid;
+    font-weight: 800;
+    border-collapse: separate;
+}
+
+.details-item-description{
+	font-size: 19px;
+    color: black;
+    font-weight: 500;
+    margin-top: 10px;
+    text-align: justify;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
