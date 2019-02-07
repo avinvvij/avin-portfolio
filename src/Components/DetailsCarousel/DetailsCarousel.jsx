@@ -10,7 +10,8 @@ class DetailsCarousel extends Component{
 			title: "About Me",
 			objects: [
 				{
-					text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+					text: "Hi , I'm Avin vij, softawre developer from India, I like to solve the real world problems using the technology. I have made many mobile games using Unity 3D , blender and adobe illustrator. Also proficient in writing mobile applications using native techonology Android Studios or using the hybrid technology i.e. React Native. Last but not the least , I also love to design websites and webapps using ReactJS ,HTML & CSS."+
+					" Apart from technology I like to play cricket or do gymming or even listen to music in my free time."
 				}
 			]
 		},
@@ -19,13 +20,13 @@ class DetailsCarousel extends Component{
 			objects: [
 				{
 					subTitle: 'Xoriant Solutions',
-					duration: '2016-2018',
-					text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+					duration: '2016-2019',
+					text: "I worked as a softawre developer where I worked on many vivid technologies like COCOS2D , Unity3D , React Native , ReactJS , NodeJS and many more. I handled projects of Disney , ACCLOUD , DYNOSENSE , BLUEHEXAGON and NICKELODEON."
 				},
 				{
 					subTitle: 'epiKAT Studios',
-					duration: '2016-2018',
-					text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+					duration: '2014-Current',
+					text: "epiKAT studios is a small company I started with my friends. epiKAT studios makes mobile games specially for android platform. Rolling Planets , Flakky Run , Shape Patcher , Flying Puffy and The Indian Bingo are the games launched under epiKAT studios. Apart from that we have worked on many other games using the recent idealogies of AR and VR."
 				}
 			]
 		},

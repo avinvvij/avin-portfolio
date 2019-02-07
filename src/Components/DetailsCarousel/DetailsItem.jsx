@@ -12,7 +12,7 @@ class DetailsItem extends Component{
 				this.props.data.objects.map((object , index)=>{
 					if(!object.icon){
 					return(
-						<Col xs = {12} lg={(12/this.props.data.objects.length)}>
+						<Col xs = {12} lg={(12/this.props.data.objects.length)} style={{maxHeight: '300px' , minHeight: '300px'}}>
 							{object.subTitle && <label className = "details-duration">{object.subTitle}</label>}
 							{object.duration && <label className = "details-duration">{object.duration}</label>}
 							<label className = {"details-item-description"}>{object.text}</label>
@@ -20,7 +20,7 @@ class DetailsItem extends Component{
 					)
 				}else{
 					return (
-						<Col style={{textAlign:'center'}} xs = {12} lg={(12/this.props.data.objects.length)}>
+						<Col style={{textAlign:'center' , maxHeight: '300px' , minHeight: '300px'}} xs = {12} lg={(12/this.props.data.objects.length)}>
 							<div style={{width:'100px',marginLeft:'auto' , marginRight:'auto',marginTop:'20px' , height:'100px', backgroundColor: 'grey', border: '1px solid white' ,display:'block' , borderRadius : '150px'}}>
 								<img height={50} width={50} style={{marginTop:'20px'}} src = {"/assets/"+object.icon} />
 							</div>

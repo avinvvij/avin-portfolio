@@ -23,6 +23,18 @@
   color: #61dafb;
 }
 
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    font-weight: 600;
+    white-space: nowrap;
+    margin-left: 40px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

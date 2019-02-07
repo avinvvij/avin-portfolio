@@ -8,7 +8,7 @@ class NameHolder extends Component{
 
 	render(){
 		return(
-			<div style={{height:'98%'}}>
+			<div style={{ height:'98%'}}>
 			<div className = "banner-holder">
 				<div className = "banner-tint">
 					<label className = "banner-name">Avin Vij</label><br/>
