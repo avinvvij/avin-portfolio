@@ -22,6 +22,9 @@ class SkillChart extends Component{
     return(
       <div className = "details-item-holder">
         <label className = "details-item-title-text">Skills</label>
+        <div style={{width: '100%' , height:'500px'}}>
+
+        </div>
       </div>
     )
   }

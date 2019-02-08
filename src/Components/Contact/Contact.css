@@ -1,0 +1,27 @@
+.contact-container{
+
+}
+
+.quick-id-container{
+  margin-left: 50px;
+}
+
+.quick-id-table{
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.contact-field , .contact-field:active , .contact-field:focus{
+  background: #bbc8dd;
+  color: black;
+  border: unset;
+  border-bottom: 1px solid black;
+  padding: 10px;
+  outline: unset;
+  width: 100%;
+  margin-top: 20px
+}
+
+.row:{
+  margin:0px
+}
