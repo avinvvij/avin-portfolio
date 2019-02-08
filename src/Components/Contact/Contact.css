@@ -25,3 +25,16 @@
 .row:{
   margin:0px
 }
+
+.submit-button{
+  width: 100%;
+  text-align: center;
+  color: black;
+  margin-top: 30px;
+  font-size: 25px;
+  border : 0.5px solid black
+}
+
+.submit-button:hover{
+  cursor: pointer;
+}

@@ -13,7 +13,7 @@ class Contact extends Component{
         <Row style={{margin:'0px' , minHeight:'400px'}}>
           <Col style={{backgroundColor : '#2e4975'}} lg={6} xs={12} md={6} sm={12}>
             <div className = "quick-id-container">
-              <label style={{color:'white'}} className = "details-item-title-text">Quick ID</label>
+              <label style={{color:'white' , marginTop:'20px'}} className = "details-item-title-text">Quick ID</label>
               <table className = "quick-id-table">
                 <tr>
                   <td>
@@ -43,7 +43,7 @@ class Contact extends Component{
             </div>
           </Col>
           <Col style={{backgroundColor : '#bbc8dd'}} lg={6} xs={12} md={6} sm={12}>
-            <label className = "details-item-title-text">Get In Touch</label>
+            <label style={{marginTop:'20px'}} className = "details-item-title-text">Get In Touch</label>
             <div style={{marginTop:'20px'}}>
               <form>
                 <Row>
@@ -64,7 +64,11 @@ class Contact extends Component{
                     <textarea type = "text" placeholder = "Message" className = "contact-field"></textarea>
                   </Col>
                 </Row>
-
+                <Row>
+                  <Col lg={12} sm = {12} xs={12}>
+                    <label className = "submit-button">Submit</label>
+                  </Col>
+                </Row>
               </form>
             </div>
           </Col>

@@ -20,10 +20,14 @@ class SkillChart extends Component{
 
   render(){
     return(
-      <div className = "details-item-holder">
-        <label className = "details-item-title-text">Skills</label>
-        <div style={{width: '100%' , height:'500px'}}>
+      <div className = "skills-holder">
+        <div style={{position:'absolute' , background: '#000000aa' , height:'100%', width:'100%'}}>
+          <div style={{marginLeft: '90px'}}>
+            <label  style={{color:'white' , marginTop:'20px'}}className = "details-item-title-text">Skills</label>
+            <div style={{width: '100%' , height:'500px'}} >
 
+            </div>
+        </div>
         </div>
       </div>
     )
