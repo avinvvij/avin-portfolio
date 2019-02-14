@@ -1,14 +1,15 @@
 {
-  "main.css": "/avin-portfolio/static/css/main.43f79b01.chunk.css",
-  "main.js": "/avin-portfolio/static/js/main.9c1a02c2.chunk.js",
-  "main.js.map": "/avin-portfolio/static/js/main.9c1a02c2.chunk.js.map",
-  "static/js/1.3f264492.chunk.js": "/avin-portfolio/static/js/1.3f264492.chunk.js",
-  "static/js/1.3f264492.chunk.js.map": "/avin-portfolio/static/js/1.3f264492.chunk.js.map",
+  "main.css": "/avin-portfolio/static/css/main.ff5629f8.chunk.css",
+  "main.js": "/avin-portfolio/static/js/main.71282424.chunk.js",
+  "main.js.map": "/avin-portfolio/static/js/main.71282424.chunk.js.map",
+  "static/js/1.5967dabe.chunk.js": "/avin-portfolio/static/js/1.5967dabe.chunk.js",
+  "static/js/1.5967dabe.chunk.js.map": "/avin-portfolio/static/js/1.5967dabe.chunk.js.map",
   "runtime~main.js": "/avin-portfolio/static/js/runtime~main.9896d786.js",
   "runtime~main.js.map": "/avin-portfolio/static/js/runtime~main.9896d786.js.map",
+  "static/css/main.ff5629f8.chunk.css.map": "/avin-portfolio/static/css/main.ff5629f8.chunk.css.map",
   "static/media/logo.svg": "/avin-portfolio/static/media/logo.5d5d9eef.svg",
-  "static/css/main.43f79b01.chunk.css.map": "/avin-portfolio/static/css/main.43f79b01.chunk.css.map",
+  "static/media/dp.jpeg": "/avin-portfolio/static/media/dp.f7b26f8f.jpeg",
   "index.html": "/avin-portfolio/index.html",
-  "precache-manifest.91f209187c39b65323862c943992c396.js": "/avin-portfolio/precache-manifest.91f209187c39b65323862c943992c396.js",
+  "precache-manifest.000d44beb4df7b554b106bfa33866923.js": "/avin-portfolio/precache-manifest.000d44beb4df7b554b106bfa33866923.js",
   "service-worker.js": "/avin-portfolio/service-worker.js"
 }
