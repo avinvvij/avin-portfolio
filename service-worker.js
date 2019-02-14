@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/avin-portfolio/precache-manifest.000d44beb4df7b554b106bfa33866923.js"
+  "/avin-portfolio/precache-manifest.df90f29e8159b8e344c624556a2f7fb7.js"
 );
 
 workbox.clientsClaim();
