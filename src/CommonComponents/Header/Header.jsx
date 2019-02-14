@@ -18,13 +18,8 @@ class Header extends Component{
 	      	<Nav.Link onClick = {()=>{
 							this.props.scrollTo('detailscarousel')
 						}} style={{float: 'left' , color:'white'}} >About Me</Nav.Link>
-	      	<Nav.Link onClick = {()=>{
-							this.props.scrollTo('skillchart')
-						}} eventKey={2} style={{float: 'left',color:'white' , marginLeft: '20px'}} >
-	        	Skills
-	      	</Nav.Link>
 					<Nav.Link onClick = {()=>{
-							this.props.scrollTo('skillchart')
+							this.props.scrollTo('portfolio')
 						}} eventKey={2} style={{float: 'left',color:'white' , marginLeft: '20px'}} >
 	        	Portfolio
 	      	</Nav.Link>
@@ -34,6 +29,10 @@ class Header extends Component{
 	        	Contact
 	      	</Nav.Link>
 					</div>
+					</Nav>
+					<Nav>
+					</Nav>
+					<Nav>
 					</Nav>
 					<Nav>
 					</Nav>
